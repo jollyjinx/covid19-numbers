@@ -9,4 +9,4 @@ It shows me the numbers I don't see in mass media:
 - new infections in relation to current infections
 - deathrate in percent ( quite useless if you don't know how many get tested)
 
-<a href="Results.pdf"><img src="Results.png" style="max-width: 90%; display: block; margin-left: auto; margin-right: auto;" /></a>
+<img src="Results.png" style="max-width: 90%; display: block; margin-left: auto; margin-right: auto;" />
